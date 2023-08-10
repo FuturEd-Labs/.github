@@ -6,4 +6,4 @@ Unlike those dusty didactic institutions stuck in the dark ages, FuturEd Labs em
 
 Learn more at [futuredlabs.com](https://futuredlabs.com)🔗
 
-Meanwhile checkout our AI Assessment generator: [Quespro](https://quespro.com)✨
+Meanwhile check out our AI Assessment generator: [Quespro](https://quespro.com)✨
